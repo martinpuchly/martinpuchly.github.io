@@ -1,1 +1,13 @@
+body {
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 2%, rgba(20,154,159,1) 75%);
+}
 
+.container{
+    width: 920px;
+    margin: 0 auto;
+}
+
+.header{
+  
+}
